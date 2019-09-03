@@ -2,11 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://braumwinter.github.io/website/",
-=======
-  "homepage": "https://https://github.com/braumwinter.github.io/website",
->>>>>>> f1dc699e5fdbcabc48792f416f16c6bd34545358
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
